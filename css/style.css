@@ -22,3 +22,12 @@
     transform: scale(1.05); /*increase the size of the image*/
     box-shadow: 2px 2px 5px gray; /*adds a shadow to the image*/
   }
+
+  footer {
+    text-align: center;
+    background-color: #333; /* change the background color*/
+    color: #fff; /* change the text color*/
+    padding: 1em; /* adds some padding*/
+    font-size: 0.9em; /*change the font size*/
+  }
+  
