@@ -1,0 +1,24 @@
+  .about-me-img {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto; /* center the element horizontally*/
+    display:block;
+    transition: all 0.2s ease; /*adds a transition effect when hovering*/
+  }
+  .about-me-img:hover {
+    transform: scale(1.09); /*increase the size of the image*/
+    box-shadow: 2px 2px 5px gray; /*adds a shadow to the image*/
+  }
+  #about-me {
+    text-align: center; /* center the child elements*/
+}
+
+.img-border {
+    border: 2px solid gray;
+    transition: all 0.2s ease;
+  }
+
+.img-border:hover {
+    transform: scale(1.05); /*increase the size of the image*/
+    box-shadow: 2px 2px 5px gray; /*adds a shadow to the image*/
+  }
