@@ -39,3 +39,16 @@
     margin-left: 30%;
     margin-right: 30%;
   }
+
+  /* Light theme styles */
+body {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  /* Dark theme styles */
+  body.night-mode {
+    background-color: #000;
+    color: #fff;
+  }
+  
