@@ -31,3 +31,11 @@
     font-size: 0.9em; /*change the font size*/
   }
   
+  .about-me-text {
+    text-align: center; /*align the text to center*/
+    border: 2px solid #333; /*add a 2px solid black border*/
+    padding: 1em; /*add some padding to the text*/
+    margin: 1em 0; /*add some margin to the top and bottom of the text*/
+    margin-left: 30%;
+    margin-right: 30%;
+  }
